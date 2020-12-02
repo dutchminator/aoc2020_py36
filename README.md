@@ -1,29 +1,12 @@
-# README #
+# Advent of Code 2020
+author: Sebastiaan Candel
+### What goes where
 
-This README would normally document whatever steps are necessary to get your application up and running.
+* Input data goes into `/data`, named as 1.txt, 2.txt, etc.
+* `/solutions` contains a notebook per day, day_01.ipynb, day_02.ipynb, etc.
 
-### What is this repository for? ###
+### Usage
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Make sure you have Anaconda (or miniconda) installed
+* Generate an environment from aoc2020_py36.yml
+* Download your own data files into /data
